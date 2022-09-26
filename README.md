@@ -1,2 +1,2 @@
-# DanielRajasekar Spring_MVCLabSolution
+# StudentManagement
  
